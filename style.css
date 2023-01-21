@@ -1,0 +1,18 @@
+/* Style the header element */
+header {
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+
+/* Style the h1 element inside the header element */
+header h1 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* Style the bet-form element */
+#bet-form {
+  background-color: gray;
+  padding: 20px;
+}
